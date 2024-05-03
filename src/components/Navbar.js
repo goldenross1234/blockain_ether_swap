@@ -12,7 +12,7 @@
             target="_blank"
             rel="noopener noreferrer"
           >
-            EthSwap
+            AzkalSwap
           </a>
 
           <ul className="navbar-nav px-3">
